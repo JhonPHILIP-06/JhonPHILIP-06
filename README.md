@@ -34,7 +34,7 @@
 
 I'm an **IT specialist** based in Calamba City, Laguna, with hands-on experience in **programming, IT troubleshooting, network maintenance, and system administration**. I enjoy building clean, functional web experiences and solving real-world problems with technology.
 
-Currently working as a **POD (Proof of Delivery) In-Charge** at Fast Logistics Corp. while continuously sharpening my development skills.
+Currently working as a **POD In-Charge** while continuously sharpening my development skills.
 
 - 🔭 **Currently working on:** Web development & IT support projects
 - 🌱 **Currently learning:** Advanced JavaScript, Laravel, and cybersecurity fundamentals
@@ -42,50 +42,6 @@ Currently working as a **POD (Proof of Delivery) In-Charge** at Fast Logistics C
 - 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, MySQL, or IT troubleshooting
 - 📫 **Reach me at:** tercerojhonphilip00@gmail.com
 - ⚡ **Fun fact:** I once debugged a network issue at 2 AM with nothing but a terminal and coffee ☕
-
----
-
-## 💼 Work Experience
-
-### 🏢 Associate POD In-Charge
-**Fast Logistics Corp.** — *Calamba-Japan Tobacco Int'l, Barandal, Calamba City*
-`Feb 2026 – Present`
-
-- Monitoring delivered shipments and verifying receipt of Proof of Delivery (POD) documents
-- Receiving and validating signed delivery receipts, delivery notes, and supporting docs
-- Checking accuracy of waybill numbers, delivery dates, signatures, and attachments
-- Preparing reports and status updates on pending, completed, and problematic PODs
-- Ensuring compliance with company procedures and customer requirements
-
----
-
-### 🏛️ Office Staff & Receptionist
-**Laguna Provincial Capitol – Extension (GIP Program)**
-*Office of Cong. Ruth M. Hernandez & Cong. Ramil L. Hernandez — 2nd District, Laguna*
-`Sep 2024 – Jul 2025`
-
-- Assisted clients with inquiries and conducted interviews to gather required information
-- Encoded and maintained accurate client data and records
-- Provided technical support by troubleshooting hardware and software issues
-
----
-
-### 🏛️ Data Encoder (Intern)
-**Laguna Provincial Capitol – Extension**
-`Nov 2023 – Mar 2024`
-
-- Encoded and maintained accurate client data and records
-- Provided technical support for hardware and software troubleshooting
-
----
-
-## 🎓 Education
-
-**🎓 Bachelor of Science in Computer Science**
-*City College of Calamba* — VII, Poblacion, Calamba City, Laguna
-`2020 – 2024`
-
-- 🏅 Dean's Lister (A.Y. 2021 – 2023)
 
 ---
 
@@ -121,19 +77,6 @@ Currently working as a **POD (Proof of Delivery) In-Charge** at Fast Logistics C
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonPHILIP-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonPHILIP-06&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonPHILIP-06&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Portfolio
 
 Check out my full portfolio here: **[jhonphilip-portfolio.netlify.app](https://jhonphilip-portfolio.netlify.app)**
@@ -155,14 +98,4 @@ Check out my full portfolio here: **[jhonphilip-portfolio.netlify.app](https://j
   <a href="mailto:tercerojhonphilip00@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhonPHILIP-06&label=Profile%20Views&color=4F8CFF&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/JhonPHILIP-06">Jhon Philip R. Tercero</a> — Building clean, functional, and secure digital experiences.</i>
 </p>
