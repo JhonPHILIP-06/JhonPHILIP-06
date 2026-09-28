@@ -5,10 +5,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=600&lines=IT+Specialist+%7C+Web+Enthusiast;Cybersecurity+%26+Data+Management;Always+learning%2C+always+building." alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://jhonphilip-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
