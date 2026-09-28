@@ -5,13 +5,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://jhonphilip-portfolio.netlify.app" target="_blank">
+  <a href="https://jhonphilip-portfolio.netlify.app" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jhon-philip-tercero-221a92375/" target="_blank">
+  <a href="https://www.linkedin.com/in/jhon-philip-tercero-221a92375/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/JhonPHILIP-06" target="_blank">
+  <a href="https://github.com/JhonPHILIP-06" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:tercerojhonphilip00@gmail.com">
@@ -70,12 +70,6 @@ Currently working as a **POD In-Charge** while continuously sharpening my develo
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Apps-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
-
----
-
-## 🌐 Portfolio
-
-Check out my full portfolio here: **[jhonphilip-portfolio.netlify.app](https://jhonphilip-portfolio.netlify.app)**
 
 ---
 
