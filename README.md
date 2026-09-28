@@ -28,7 +28,7 @@
 
 ## 🧭 About Me
 
-I'm an **IT specialist** based in Calamba City, Laguna, with hands-on experience in **programming, IT troubleshooting, network maintenance, and system administration**. I enjoy building clean, functional web experiences and solving real-world problems with technology.
+I'm an **IT Specialist** based in Calamba City, Laguna, with hands-on experience in **Programming, IT Troubleshooting, Network Maintenance, and System Administration**. I enjoy building clean, functional web experiences and solving real-world problems with technology.
 
 Currently working as a **POD In-Charge** while continuously sharpening my development skills.
 
